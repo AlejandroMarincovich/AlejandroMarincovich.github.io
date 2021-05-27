@@ -7,7 +7,10 @@
 body {
     font-family: 'open sans';
 }
-
+table {
+    width: 100%;
+    background: #bc4e9c;   
+  }
 .contenedor {
     padding: 60px 0;
     width: 90%;
